@@ -1,0 +1,1 @@
+java -classpath .¥bin¥ com.idacchi.cloudautomator.CloudAutomatorHTTPSwing
