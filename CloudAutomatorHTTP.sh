@@ -1,2 +1,2 @@
 #!/bin/bash
-java -classpath ./bin/ com.idacchi.cloudautomator.CloudAutomatorHTTPSwing
+java -classpath CloudAutomatorHTTP.jar com.idacchi.cloudautomator.CloudAutomatorHTTPSwing
